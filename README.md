@@ -107,6 +107,7 @@ Be sure you open up your `my-favorite-things` directory in Sublime or Atom so yo
 - [CLI Gardening](https://github.com/ga-dc/cli_gardening)
 
 ## Hungry For More?
+- Solve the [command line murder mystery](https://github.com/WDI-SEA/command-line-murder-mystery)!
 - Try to complete the [Kitchen Organizer](labs/kitchen/README.md) lab in as few steps as possible. Look up shortcuts along the way!
 - Practice using other popular commands we didn't cover in class by completing the [Command Line Fu — Challenge](https://github.com/ga-wdi-exercises/command_line_fu) lab.
 - Brownie points for configuring your terminal using [iTerm](https://www.iterm2.com/). Find some helpful instructions [here](http://yoderbacon.com/blog/2014/10/22/how-to-customize-iterm/).
