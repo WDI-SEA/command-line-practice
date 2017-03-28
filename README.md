@@ -43,7 +43,7 @@
 
   - In the `my-favorite-things` folder, create a folder named `movies`, and navigate to that folder.
   - In the `movies` folder, create a folder named after your favorite actor.
-  - Create a folder in the `actor` folder named after his or her breakthrough movie (e.g., `a-woman-is-a-woman.txt`).
+  - Create a text file in the `actor` folder named after his or her breakthrough movie (e.g., `a-woman-is-a-woman.txt`).
   - Look back at Sublime or Atom and edit that text file with a description of the movie.
   - Navigate back to the `movies` directory. Create a text file named after the actor's character.
   - Move the text file to the breakthrough movie folder.
